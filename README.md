@@ -1,6 +1,11 @@
 
 # Twitter accident data analysis 
 ## By Team We-Byte
+### Notebooks Description
+* Part 1 : Data Scrapping and Cleaning
+* Part 2: Exploratory Data Analysis
+* Part 3: Feature Engineering & Models
+* Streamlit : Deployment 
 #
 # Problem statement
 With increasing population and motorization, Kenya as well as other African countries are faced with tragic road traffic accidents. As we know at the moment ntsa has no proper data collection and documentation on accident data. At this time and age tech is taking over and it would be relevant to have certain data points collected and documented in good time.
